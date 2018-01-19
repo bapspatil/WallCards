@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">WallCards</string>
+    <string name="popular">POPULAR</string>
+    <string name="curated">CURATED</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="hey_there">Hey there.</string>
+    <string name="logout">Logout</string>
+    <string name="this_is_a_wallcard">This is a WallCard</string>
+    <string name="wallpaper_in_this_wallcard">This is the wallpaper in this wallcard</string>
+    <string name="logo">This is the logo</string>
+    <string name="add_favorite_wallcard">Add a WallCard to your Favorites.</string>
+    <string name="favorite_wallcards">Favorite WallCards</string>
+    <string name="this_is_the_wallcard_thumbnail_in_the_widget">This is the WallCard thumbnail in the widget</string>
+    <string name="wallcards">WallCards</string>
+    <string name="not_set_wallpaper">Couldn\'t set image as wallpaper!</string>
+    <string name="auth_failed">Authentication failed.</string>
+    <string name="cannot_connect_google">Couldn\'t connect to Google</string>
+    <string name="no_internet">No Internet!</string>
+    <string name="no_internet_messages">Please connect to the Internet and open the app again.</string>
+    <string name="image_set_as_wall">Image has been set as wallpaper!</string>
+    <string name="add_fav">Added to Favorites!</string>
+    <string name="remove_fav">Removed from Favorites!</string>
+    <string name="no_favs">No favorites!</string>
+    <string name="no_favs_messages">Add WallCards to your Favorites to see them here.</string>
+    <string name="space_likes">Likes</string>
+    <string name="hey_there_greeting">Hey there,</string>
+    <string name="dot">.</string>
+    <string name="hey_there_without_name">Welcome to WallCards.</string>
+    <string name="section">SECTION</string>
+
+</resources>
